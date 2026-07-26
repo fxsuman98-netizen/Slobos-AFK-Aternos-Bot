@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Classonly.aternos.me",
-    "port": 52048,
+    "ip": "blastcrafters141.mcsh.io",
+    "port": 25565,
     "version": "1.21.10",
     "try-creative": false
   },
